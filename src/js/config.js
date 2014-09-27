@@ -6,7 +6,7 @@ var CONFIG = {
     APP_NAME: 'FixaMinGata',
 
     // URL of the fixmystreet install to report to
-    FMS_URL: 'www.fixamingata.se/mapit',
+    FMS_URL: 'https://www.fixamingata.se',
 
     // namespace for storing drafts etc in. Should not need to change
     NAMESPACE: 'fixmystreet',
