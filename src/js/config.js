@@ -1,6 +1,6 @@
 var CONFIG = {
     // Language of templates to use ( should be name of directory under src/templates/ )
-    LANGUAGE: 'en',
+    LANGUAGE: 'sv',
 
     // Name of app to use in alert dialog titles amongst other things
     APP_NAME: 'FixaMinGata',
